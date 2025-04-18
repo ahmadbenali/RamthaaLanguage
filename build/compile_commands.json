@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ahmad/CompileProject/build",
+  "command": "/usr/bin/g++   -g -std=gnu++20 -o CMakeFiles/pro.dir/src/main.cpp.o -c /home/ahmad/CompileProject/src/main.cpp",
+  "file": "/home/ahmad/CompileProject/src/main.cpp"
+}
+]
