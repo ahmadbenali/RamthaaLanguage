@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <sstream>
-#include <optional>//????
+#include <optional>
 #include <vector>
 
 using namespace std;
@@ -15,7 +15,7 @@ enum class TokenType
 };
 
 
-struct Token//why struct
+struct Token
 {
     TokenType type;
     optional<string> value{};
